@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PritamMuller25
+- 👋 Hi, I’m @Pritam Kundu
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 
